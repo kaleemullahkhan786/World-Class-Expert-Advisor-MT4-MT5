@@ -2,8 +2,6 @@
 
 A high‑performance Expert Advisor engineered for long‑term consistency, low drawdowns, and powerful compounding. Tested across 5 full years of real market conditions, this EA delivers the type of performance traders only hope to find.
 
-This README is designed to impress visitors, build trust, and convert them into buyers.
-
 ---
 
 # 🌟 Overview
